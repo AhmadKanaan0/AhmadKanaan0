@@ -9,6 +9,7 @@ Web Developer
 *   👀 I’m interested in Reading, Writing, listening to music, learning new languages, and anime
 *   🌱 I'm currently learning about data science
 *   🔭 I'm currently working on a chat app and a university website
+*   📝 I regularly write articles on [Hashnode](https://ahmadkanaan.hashnode.dev)
 *   🖥️  See my portfolio at [Ahmad Kanaan](http://ahmadkanaan.netlify.app)
 *   ✉️  You can contact me at [ahmadkanaan021@gmail.com](mailto:ahmadkanaan021@gmail.com)</br></br><a href="https://www.github.com/AhmadKanaan0" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/AhmadKanaan0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
